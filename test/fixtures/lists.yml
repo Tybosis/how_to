@@ -1,0 +1,10 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Take Over the World
+  description: Steps needed to conquer the world!
+
+two:
+  name: Take a screenshot in OSX Yosemite
+  description: What you need to do to save a picture of whats on your screen.
